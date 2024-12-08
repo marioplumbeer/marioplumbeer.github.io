@@ -1,14 +1,14 @@
 ---
 draft: false
 title: "Before The Fame, Pt 2"
-date: "2024-09-14"
+date: "2024-12-08"
 summary: "From Waiter to SEO Assistant."
 description: ""
 toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["salesperson"]
+tags: ["seo", "salesperson"]
 showTags: true
 hideBackToTop: false
 ---
@@ -101,6 +101,8 @@ Many other smaller issues happened before and after that incident, which made us
 > Working Days: 7 per week.  
 > Age: 19.
 
+![Mario Shoe Salesperson](mario-shoe-salesperson.jpg#center)
+
 After getting traumatized when trying to sell hot dogs in São Paulo, I sent my CV to almost every store in Plaza Sul Shopping Mall.
 
 ### Shoebiz
@@ -124,21 +126,78 @@ Customers not always knew their size and in many occassions, they would not buy 
 The thing about selling shoes is that most of the time, people don't need them. Being a street vendor helped me understand how to identify potential buyers - and that's what I did. Instead of investing the same amount of energy in every customer that asked about a pair of shoes, I focused on the ones that were more likely to buy one, according to a few pre-conditions. Back then, I paid a lot of attention to body language, facial expressions and other non-verbal clues, such as the way they reacted to my jokes. This worked so well, in one occassion I managed to sell two pairs of the most expensive shoes in the store in one sale. That was also the sale that helped me achieve my monthly goal and pass the probation period. I was so happy about the sale, that I rushed to meet my wife and celebrate the achievement during lunch time. When I came back, my co-workers told me I lost the sale, because I didn't meet one of our requirements to put the shoes that I didn't sale back in the shelf. They made me believe this was for real and it took me a while after they told me it was a joke to realize it really was. Kinda my fault, that's exactly how my jokes would be perceived by others, including customers.
 
 ## SEO Assistant
-> Income: minimum wage.  
+> Income: minimum wage to 3x minimum wage.  
 > Working Days: 5 per week.  
 > Age: 19-23.
 
 ![Mario SEO Assistant](mario-seo-assistant.png#center)
 
-I was really tired of working from Monday to Sunday. When someone told me a friend of mine - back from English classes - was coming back from overseas (USA) to open a marketing agency, I didn't think twice before asking to meet him and asking for a job. My wife was skeptical about the idea:
-> You haven't spoken to him for years. I wouldn't talk to him at all. There is no way he can give 
-> you a job.
+### First Round: Red Bricks Media
+I was really tired of working from Sunday to Sunday to make a living. It was also challenging to study anything because I didn't have the resources (both money and time) to do so. Luckily enough, I made many people laugh when I was learning English at [CNA Vila das Merces](http://bairroviladasmerces.blogspot.com/2010/06/escola-de-idiomas-na-vila-das-merces.html), which helped build my network at such a young age at 14 years old. When I heard one of my friends from CNA was coming back from overseas (USA) to open a branch (kinda) of [Red Bricks Media](https://www.linkedin.com/company/red-bricks-media/) in Brazil, I didn't think twice before reaching out to him and asking to meet him to know more about his experience in the US and what were his plans with this new branch. I asked my wife what she thought about it... and the answer was not exactly what I expected to hear:
+> *"It doesn't look like you were close friends. I don't think he will meet you and I wouldn't ask to meet him at all. It sounds innapropriate."*
 
-Thankfully I didn't hear my wife (sorry) and got hired by the agency to work as a SEO assistant. I didn't know what it was... I had actually absolute no idea how to do it, but my friend told me it was easy, and he would teach me, and, more importantly, it was from Monday to Friday, so my weekends were FREE! Music to my ~~eyes~~ ears.
+I already had the no, what else could I lose? We met and I was overly excited about his time in the US and asked a million questions about it. At some point, he told me there was an opening in his agency in Brazil: it was from Monday to Friday, sitting on a chair in front of a computer for 8 hours a day. The title of the role was "SEO Assistant" and it had something to do with ranking websites by keywords in Google's organic search results. The funny thing is that two people that already worked in there were also from CNA: one of my teachers and one of my classmates. I didn't think twice before accepting the offer.
 
-The main difference for me in this role, is that instead of using my body as the primary tool to do my job, I was using my brain. This was a relieve, given I had to stand still for 6+ hours per day in previous roles.
+#### Outcomes
+That job was important to me in so many ways, but these were the key outcomes:
+1. I learned how to use Microsoft Excel to **automate tasks**.
+1. I learned how businesses make money by ranking their landing pages on search engines.
+1. My English skills improved a lot, since I had to read and write daily.
+1. I [discovered Computer Science](https://marioplumbarius.github.io/posts/its-a-me-mario/#2011-how-i-discovered-computer-science), HTML, CSS, JavaScript and learned about programming basics with PHP.
 
-### About the role
-I was responsible for researching popular keywords, reaching out to blogs and asking for a link reference back to my client's website. (That time was also when I leared what *"what is in it for me"* meant). I was also responsible for creating SEO reports to track clients' ranking in Google's organic search results.
+### Second Round: AD.Dialeto
 
-One of the requirements for the role was to be able to write English just fine to get the job done. Back then (and even now), my English suck: spelling mistakes, grammar mistakes, verb tenses, etc. The funny thing is that my former English teacher was also my co-worker - so I would easily blame him for my [lack of] English skills.
+I don't really remember why I left Red Brids Media, but I somehow ended up working for [AD.Dialeto](https://newsroom.accenture.com/news/2015/accenture-acquires-ad-dialeto-to-expand-its-digital-marketing-capabilities-in-brazil) as a Junior SEO. The agency was located very far from home - it was 1h:30m commute. I used to live in the suburbs of São Paulo and the company was located at Faria Lima - a commercial and financial centre. I had to take 2 buses and 1 subway to get there. Despite the long commute, it was a great opportunity to learn more about SEO and digital marketing.
+
+This was the first time I had my lunch paid by my employer. Given I wasn't really into cooking, this was a big plus for me. My employer gave me lunch vouhcers which were supposed to last 22 [business] days. Since we're [still] talking about Brazil and Faria Lima being a rich area, my lunch voucher wouldn't last more than 5 days - but I enojyed it anyway.
+
+The funniest thing I remember from working in there was when one of the bosses bought ice cream for everyone and asked us to post on social media how cool the company was. To this day I still don't know if he was joking about it or if I didn't realize he was indeed joking. It had to be a joke.
+
+#### Outcomes
+1. I learned how to use Google Analytics to measure the impact of SEO.
+1. I engaged deeply with the SEO community and quickly learned how to implement the best strategies.
+1. I learned 1:30m commute time is a lot.
+
+### Third Round: Ogilvy
+
+Work at AD.Dialeto was ok, but I learned I could make more money in a bigger company. That's when I learned about a job opening at [Ogilvy](https://en.wikipedia.org/wiki/Ogilvy_(agency)). I applied and got through the interviews. The role was one of the most exciting ones I've ever had: I was going to work as a Senior SEO (not because I had lots of experience, but because there wasn't many people with experience available) in a team of UX Designers and Product Managers for the biggest brands in Brazil, such as [Claro](https://en.wikipedia.org/wiki/Claro_Company), [Tang](https://en.wikipedia.org/wiki/Tang_(drink_mix)), [Jac Motors](https://en.wikipedia.org/wiki/JAC_Group), [Ronaldo's 9ine marketing agency](https://www.mmamania.com/2013/9/25/4764768/ufc-166-junior-dos-santos-inks-deal-brazil-9ine-agency-mma), etc.
+
+I had so much fun at Ogilvy that I didn't even care about the 2h commute time. This career move was one of the best decisions I've ever made. I learned A LOT about **product development** with that team, but I had no idea back then how useful that would be in the future.
+
+#### Outcomes
+1. I learned about how to refine products through user interviews.
+1. I learned the impact of usability to digital products.
+1. I learned about Amazon.com success through ["Don't Make Me Think" book by Steve Krug](https://sensible.com/dont-make-me-think/).
+1. I learned how much ~~millions~~ money big coorporations invest in paid marketing every year.
+1. I learned how big brands handle their digial presence and customer support.
+1. I learned how much money IT vendors were making by building wordpress websites
+  *(This definately made me think about learning programming, but I wasn't ready yet).*
+1. I learned about [paid and organic] social media strategies.
+1. I experienced the excitement (and fear) of launching a nationwide marketing campaing on one of the most popular TV shows in Brazil (Faustao).
+
+### Last Round: AO5
+
+Ogilvy was great, but I was working alone, without support from any peer that understood SEO as much as I did, so I decided to join a company that had an entire team dedicated to SEO strategies: AO5. The second main reason why I changed jobs is because I met one of the founders of AO5 and beyond being such a nice person, his company was just a few kilometers away from where I lived. By car, it was a 10 minute drive - OMG, yes!
+
+This company also built **websites**, and they had a frontend development team, which I obviously got close to, so that I could clarify the infinite questions I had in my head.
+
+#### Outcomes
+1. I learned about the importance of using processes to scale.
+1. I learned drain cleaning service is one of the most competitives markets in google [paid] search.
+1. I learned the importance of showing impact to customers that are paying for a service (SEO) they don't understand much about.
+1. I learned why clients cared more about converting clicks than being ranked at the top.
+
+#### Shift to Software Development
+
+I was happy doing SEO, but I always felt like I was capable of doing more and each time the engineering team launched a new website, I couldn't stop thinking I would like to learn how to do that myself. Back then, one of the aspects of Software Development that I resonated with (a lot) was **logic**: *"given A, if B, then C"* as opposed to *"do A because I find it cool"*. I used to work best when I relied on data to solve problems rather on my selling pitch, for example.
+
+During that time, I was also worried about which career I'd like to pursue. I had already thought about Vet, Marketing, Business Management, but I couldn't see myself building a career on those areas.
+
+Then this happened: I asked one of the frontend developers at work what they thought about Java, because I learned online that's how mobile applications were built and I wanted to see if that's something worth learning. His answer: *"Dude, Java is hard and terrible. Don't even try, you will regret every single day"*. So I took the advice, momentarily, and started [learning web development through MDN](https://developer.mozilla.org/en-US/docs/Learn). I liked it, but building UIs was not my thing, so I started reading [How to Think Like a Computer Scientist using Python](https://openbookproject.net/thinkcs/python/english3e/). By the time I finish reading that book, I was already convinced problem solving was something I really enjoyed doing, so I started reading about career in IT, popular programming languages, popular companies and everything else I could find online to help me make a decision. Which led to me [enrolling for Computer Science at Anhembi Morumbi University in 2012](https://marioplumbarius.github.io/posts/its-a-me-mario/#2012-university-first-trial), which led me to leaving AO5 and [joining an internship at iG](https://marioplumbarius.github.io/posts/its-a-me-mario/#2013-computer-science-internship).
+
+---
+
+## What's Next
+Next up, I will talk about how was my first job in IT (internship at iG): how I dealt with my onboarding, what did I do to get promoted to full time employee within 6 months, how I built a strong network that later helped me find better jobs, etc.
+
+See you next time!
