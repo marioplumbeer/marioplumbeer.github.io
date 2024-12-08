@@ -13,7 +13,7 @@ showTags: true
 hideBackToTop: false
 ---
 
-After getting fired for taking too many risks as a Logistics Assistant, I had a few other jobs that helped me grow into a cross-functional Software Engineer. In this post, I'll talk about the time between my first attempt owning a business (from waiter to manager) and ranking websites for *"plastic survery"* in Google's top [organic] search results for a living.
+After getting fired for taking too many risks as a Logistics Assistant, I had a few other jobs that helped me grow into a cross-functional Software Engineer. In this post, I'll talk about the time between my first attempt owning a business (from waiter to manager) and ranking websites for *"plastic surgery"* in Google's top [organic] search results for a living.
 
 ## Waiter
 
