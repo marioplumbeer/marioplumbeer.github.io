@@ -36,8 +36,6 @@ After a year or so studying [how to think like a Computer Scientist](https://ope
 ### My first computer
 Investing in a computer as a 22 year old me was... challenging. I was married, living in a 1-bedroom house with my in-law and 3 dogs. I didn’t have the money to buy it, so I took out a loan from a financial institution and hoped I'd be able to pay it fully. Turns out I never did, but it was the best investment I did back then. It allowed me to have access to free education, other cultures and, more importantly, it **empowered me to be my best self**.
 
-![Mario First Laptop](mario-first-laptop.jpg#center)
-
 It was a Samsung Laptop running ~~Windows~~ **Linux** (thanks to [Erik](https://www.linkedin.com/in/erikhenrique/) for the *influence*) - which was the perfect fit for me, given I was hungry to learn everything about computers.
 
 ### Finding an internship
