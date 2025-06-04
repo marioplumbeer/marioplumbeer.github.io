@@ -34,7 +34,7 @@ That's when I met [Diogo](https://www.linkedin.com/in/diogotozzi/) - a Software 
 After a year or so studying [how to think like a Computer Scientist](https://openbookproject.net/thinkcs/python/english3e/) ~~on my employers computers~~, I decided it was the career I wanted to pursue. So I enrolled into [Computer Science at Universidade Anhembi Morumbi](https://portal.anhembi.br/graduacao/ciencia-da-computacao/).
 
 ### My first computer
-Investing in a computer as a 22 year old me was... challenging. I was married, living in a 1-bedroom house with my in-law and 3 dogs. I didn’t have the money to buy it, so I took out a loan from a financial institution and hoped I'd be able to pay it fully. Turns out I never did, but it was the best investment I did back then. It allowed me to have access to free education, other cultures and, more importantly, it **empowered me to be my best self**.
+Investing in a computer as a 22 year old me was... challenging. I was married, living in a 1-bedroom house with my ex's mom and 3 dogs. I didn’t have the money to buy it, so I took out a loan from a financial institution and hoped I'd be able to pay it fully. Turns out I never did, but it was the best investment I did back then. It allowed me to have access to free education, other cultures and, more importantly, it **empowered me to be my best self**.
 
 It was a Samsung Laptop running ~~Windows~~ **Linux** (thanks to [Erik](https://www.linkedin.com/in/erikhenrique/) for the *influence*) - which was the perfect fit for me, given I was hungry to learn everything about computers.
 
