@@ -37,7 +37,7 @@ I looked around and captured the following problems within the first two months:
 Those were some of the problems I captured that I believed were preventing the restaurant from becoming profitable. I showed the list of problems to the owner, but he wasn't convinced if we solved those problems, the restaurant would become profitable. I wasn't sure how much it would help, to I decided to run a survey to figure out.
 
 ### Opportunity: prioritize through surveys
-My wife had this idea about letting customers fill out a survey and vote for things we do well and things to improve. My wife and my in-law (yes, they used to work for the same restaurant) got together and came up with this box and a bunch of forms customers could fill out and provide feedback. The forms were strategically placed on their way out and they had to put it in a box close to the cashier's counter.
+My ex had this idea about letting customers fill out a survey and vote for things we do well and things to improve. My ex and her mom (yes, they used to work for the same restaurant) got together and came up with this box and a bunch of forms customers could fill out and provide feedback. The forms were strategically placed on their way out and they had to put it in a box close to the cashier's counter.
 
 It was a success! Many customers participated and validated my assumptions about which problems we should tackle first. At the end of the day, I addressed all problems, but this technique helped me gain trust with the owner (and customers) - which listened to my ideas more easily from that point on.
 
