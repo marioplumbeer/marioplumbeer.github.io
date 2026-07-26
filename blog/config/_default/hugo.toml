@@ -1,6 +1,6 @@
 baseURL = 'https://marioplumbeer.github.io/'
 languageCode = 'en-us'
-title = 'Mario [Plumbarius] Souza'
+title = 'Mario [Plumbeer] Souza'
 theme = 'typo'
 
 [taxonomies]
