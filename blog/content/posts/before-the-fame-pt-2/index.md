@@ -143,7 +143,7 @@ That job was important to me in so many ways, but these were the key outcomes:
 1. I learned how to use Microsoft Excel to **automate tasks**.
 1. I learned how businesses make money by ranking their landing pages on search engines.
 1. My English skills improved a lot, since I had to read and write daily.
-1. I [discovered Computer Science](https://marioplumbarius.github.io/posts/its-a-me-mario/#2011-how-i-discovered-computer-science), HTML, CSS, JavaScript and learned about programming basics with PHP.
+1. I [discovered Computer Science](https://marioplumbeer.github.io/posts/its-a-me-mario/#2011-how-i-discovered-computer-science), HTML, CSS, JavaScript and learned about programming basics with PHP.
 
 ### Second Round: AD.Dialeto
 
@@ -193,7 +193,7 @@ I was happy doing SEO, but I always felt like I was capable of doing more and ea
 
 During that time, I was also worried about which career I'd like to pursue. I had already thought about Vet, Marketing, Business Management, but I couldn't see myself building a career on those areas.
 
-Then this happened: I asked one of the frontend developers at work what they thought about Java, because I learned online that's how mobile applications were built and I wanted to see if that's something worth learning. His answer: *"Dude, Java is hard and terrible. Don't even try, you will regret every single day"*. So I took the advice, momentarily, and started [learning web development through MDN](https://developer.mozilla.org/en-US/docs/Learn). I liked it, but building UIs was not my thing, so I started reading [How to Think Like a Computer Scientist using Python](https://openbookproject.net/thinkcs/python/english3e/). By the time I finish reading that book, I was already convinced problem solving was something I really enjoyed doing, so I started reading about career in IT, popular programming languages, popular companies and everything else I could find online to help me make a decision. Which led to me [enrolling for Computer Science at Anhembi Morumbi University in 2012](https://marioplumbarius.github.io/posts/its-a-me-mario/#2012-university-first-trial), which led me to leaving AO5 and [joining an internship at iG](https://marioplumbarius.github.io/posts/its-a-me-mario/#2013-computer-science-internship).
+Then this happened: I asked one of the frontend developers at work what they thought about Java, because I learned online that's how mobile applications were built and I wanted to see if that's something worth learning. His answer: *"Dude, Java is hard and terrible. Don't even try, you will regret every single day"*. So I took the advice, momentarily, and started [learning web development through MDN](https://developer.mozilla.org/en-US/docs/Learn). I liked it, but building UIs was not my thing, so I started reading [How to Think Like a Computer Scientist using Python](https://openbookproject.net/thinkcs/python/english3e/). By the time I finish reading that book, I was already convinced problem solving was something I really enjoyed doing, so I started reading about career in IT, popular programming languages, popular companies and everything else I could find online to help me make a decision. Which led to me [enrolling for Computer Science at Anhembi Morumbi University in 2012](https://marioplumbeer.github.io/posts/its-a-me-mario/#2012-university-first-trial), which led me to leaving AO5 and [joining an internship at iG](https://marioplumbeer.github.io/posts/its-a-me-mario/#2013-computer-science-internship).
 
 ---
 

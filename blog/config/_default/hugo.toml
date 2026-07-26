@@ -1,4 +1,4 @@
-baseURL = 'https://marioplumbarius.github.io/'
+baseURL = 'https://marioplumbeer.github.io/'
 languageCode = 'en-us'
 title = 'Mario [Plumbarius] Souza'
 theme = 'typo'
@@ -43,7 +43,7 @@ url = "https://www.linkedin.com/in/marioluan/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/marioplumbarius"
+url = "https://github.com/marioplumbeer"
 
 # Main menu pages
 [[params.menu]]

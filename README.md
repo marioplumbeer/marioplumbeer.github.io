@@ -1,4 +1,4 @@
-# marioplumbarius.github.io
+# marioplumbeer.github.io
 
 **Pre-requisites**
 - [Go Hugo](https://gohugo.io/)
