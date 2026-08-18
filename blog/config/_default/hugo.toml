@@ -1,6 +1,6 @@
 baseURL = 'https://marioplumbeer.github.io/'
 languageCode = 'en-us'
-title = 'Mario [Plumbeer] Souza'
+title = 'Mario Plumbeer'
 theme = 'typo'
 
 [taxonomies]
@@ -39,11 +39,11 @@ breadcrumbs = true
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/marioluan/"
+url = "https://www.linkedin.com/in/marioplumbeer/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/marioplumbeer"
+url = "https://github.com/marioplumbeer/"
 
 # Main menu pages
 [[params.menu]]
