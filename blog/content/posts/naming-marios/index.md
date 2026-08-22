@@ -15,7 +15,7 @@ hideBackToTop: false
 
 This is a Claude session — a creativity session, really — where I was trying to find a brand name for myself. Below is the raw transcript: what I said, what Claude said, and the name we landed on by the end. After the transcript, I break down the concepts and frameworks that were quietly at play throughout the conversation — from conversation repair to trademark law to sound symbolism — with links back to where each one comes from.
 
-![Naming MariOS on the desk setup](setup.jpeg#center)
+![Naming MariOS on the desk setup](setup.png#center)
 
 ## The conversation
 
