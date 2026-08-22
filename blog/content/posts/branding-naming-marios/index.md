@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Naming MariOS"
+title: "Branding: Naming mariOS"
 date: "2026-08-22"
 summary: "A Claude session where a holding-level brand concept found its name."
 description: "A tagged transcript of the conversation that renamed the 'X Y' holding-level concept to MariOS — a tribute to an aunt named Maria, and an explicit nod to a tech-first, 'operating system' positioning."
