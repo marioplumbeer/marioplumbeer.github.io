@@ -15,7 +15,12 @@ hideBackToTop: false
 
 This is a Claude session — a creativity session, really — where I was trying to find a brand name for myself. Below is the raw transcript: what I said, what Claude said, and the name we landed on by the end. After the transcript, I break down the concepts and frameworks that were quietly at play throughout the conversation — from conversation repair to trademark law to sound symbolism — with links back to where each one comes from.
 
-![Naming MariOS on the desk setup](setup.png#center)
+<svg viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Slide reading mariOS, your brand, engineered like big tech" style="width:100%;height:auto;display:block;margin:2rem auto;border:1px solid #ddd;border-radius:8px;">
+  <rect width="960" height="540" fill="#ffffff"/>
+  <text x="480" y="270" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="88" fill="#000000">mari<tspan fill="#000000">OS</tspan></text>
+  <text x="480" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="34" fill="#000000">your brand, engineered like big tech</text>
+  <text x="920" y="510" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000000">1</text>
+</svg>
 
 ## The conversation
 
@@ -104,6 +109,17 @@ None of these concepts are branding-specific — naming just happens to be where
 - **Positioning** — messaging strategy for a product, a resume, or a personal brand — deciding what category you want to be judged against.
 - **Satisficing** — any decision under time pressure: picking a vendor, a hire, a design direction — set a "good enough" bar instead of chasing the optimum.
 - **Trademark distinctiveness spectrum** — evaluating *any* new name (product, company, feature) for how legally protectable and ownable it will be.
+
+## Grammar flags I chose to leave alone
+
+I asked Claude to proofread the "concepts" section above for vocabulary and grammar issues, but not to fix anything — I wanted to see what it would flag before deciding what actually needed changing. Publishing the list here, unfixed, so you can judge for yourself which of these are real errors and which are fine as written.
+
+- **Subject-verb agreement**, in "Repair: how we untangled the spelling": *"The first few exchanges — ... — is a textbook example..."* — "exchanges" is plural, so Claude's read is this should be "are."
+- **Dangling/misplaced modifier**, in "Sound symbolism and brand narrative": *"...shape how people perceive a brand, studied extensively by Richard Klink in..."* — "studied extensively by Richard Klink" reads as attached to "a brand" instead of to sound symbolism itself.
+- **Same pattern again**, in "Positioning and morphological branding": *"...to shift its perceived category, a technique studied by Klink in a later paper..."* — the appositive sits far enough from what it's describing that the sentence reads as a run-on.
+- **Fused participle**, in "The Mario echo": *"Claude flagging that 'MariOS' sounds close to Mario ... surfaces the mere-exposure effect."* — traditional grammar wants a possessive before a gerund subject ("Claude's flagging"), though the fused form is common in casual writing.
+- **Awkward embedded question**, in "Brand equity as the final filter": *"The closing evaluation — is MariOS more distinctive and memorable than 'X Y' or 'Mari' alone — applies the same criterion..."* — the aside is phrased as a direct question instead of an indirect one ("whether MariOS is...").
+- **Loose referent, used twice** — "When I said I didn't care about pronunciation..., that's a small but clean example of satisficing..." and "When I asked how to make the tech-first signal explicit, that's a direct instance of positioning..." — in both, "that" doesn't point to a single clean noun, just the whole preceding clause. Common informally, looser than strict grammar wants.
 
 ## References
 
