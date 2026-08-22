@@ -13,7 +13,7 @@ showTags: true
 hideBackToTop: false
 ---
 
-This is a Claude session — a creativity session, really — where I was trying to find a brand name for myself. Below is the raw transcript: what I said, what Claude said, and the name we landed on by the end. After the transcript, I break down the concepts and frameworks that were quietly at play throughout the conversation — from conversation repair to trademark law to sound symbolism — with links back to where each one comes from.
+This is a Claude session — a creativity session, really — where I was trying to find a brand name for myself. Below is the raw transcript: what I said, what Claude said, and the name we landed on by the end. After the transcript, I break down the concepts and frameworks that were quietly at play throughout the conversation — from conversation repair to trademark law to sound symbolism — with links back to where each one comes from, a short list of where else those same concepts apply outside of naming, a set of grammar issues Claude flagged but that I deliberately left unfixed, and a consolidated reference list at the end.
 
 <div style="aspect-ratio:16/9;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0.75rem;margin:2rem auto;padding:1rem;border:1px solid var(--code-border);border-radius:10px;background:var(--background);position:relative;">
   <span style="font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:clamp(2rem,7vw,3.5rem);color:var(--content-primary);line-height:1;">mariOS</span>
