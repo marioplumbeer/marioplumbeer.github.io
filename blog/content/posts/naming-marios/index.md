@@ -15,12 +15,11 @@ hideBackToTop: false
 
 This is a Claude session — a creativity session, really — where I was trying to find a brand name for myself. Below is the raw transcript: what I said, what Claude said, and the name we landed on by the end. After the transcript, I break down the concepts and frameworks that were quietly at play throughout the conversation — from conversation repair to trademark law to sound symbolism — with links back to where each one comes from.
 
-<svg viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Slide reading mariOS, your brand, engineered like big tech" style="width:100%;height:auto;display:block;margin:2rem auto;border:1px solid #ddd;border-radius:8px;">
-  <rect width="960" height="540" fill="#ffffff"/>
-  <text x="480" y="270" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="88" fill="#000000">mari<tspan fill="#000000">OS</tspan></text>
-  <text x="480" y="330" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="34" fill="#000000">your brand, engineered like big tech</text>
-  <text x="920" y="510" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#000000">1</text>
-</svg>
+<div style="aspect-ratio:16/9;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0.75rem;margin:2rem auto;padding:1rem;border:1px solid var(--code-border);border-radius:10px;background:var(--background);position:relative;">
+  <span style="font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:clamp(2rem,7vw,3.5rem);color:var(--content-primary);line-height:1;">mariOS</span>
+  <span style="font-family:Helvetica,Arial,sans-serif;font-weight:700;font-size:clamp(0.9rem,2.5vw,1.3rem);color:var(--content-primary);">your brand, engineered like big tech</span>
+  <span style="position:absolute;bottom:0.75rem;right:1rem;font-family:Helvetica,Arial,sans-serif;font-size:0.75rem;color:var(--content-secondary);">1</span>
+</div>
 
 ## The conversation
 
